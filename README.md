@@ -6,3 +6,4 @@ Oi, eu sou Breno, entrei nesse curso com o objetivo de me familiarizar com a ár
  - Amo cozinhar
  - Sou entusiasta de VideoGames
  - Tenho Autismo e TDAH
+ - Programo desde 2010 e comecei aprendendo C
