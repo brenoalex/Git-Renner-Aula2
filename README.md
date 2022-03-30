@@ -6,3 +6,4 @@ Oi, eu sou Breno, entrei nesse curso com o objetivo de me familiarizar com a ár
  - Amo cozinhar
  - Sou entusiasta de VideoGames
  - Tenho Autismo e TDAH
+ - Possuo um notebook Aspire 5 Acer
