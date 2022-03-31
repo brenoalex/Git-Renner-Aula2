@@ -9,4 +9,3 @@ Oi, eu sou Breno, entrei nesse curso com o objetivo de me familiarizar com a ár
  - Programo desde 2010 e comecei aprendendo C
  - Possuo um notebook Aspire 5 Acer
 
- Fixes #2
